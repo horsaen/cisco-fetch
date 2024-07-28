@@ -15,3 +15,5 @@ Then:
 ```
 tclsh cisco-fetch
 ```
+
+![screenshot of command](https://raw.githubusercontent.com/horsaen/imgstore/main/cisco-fetch/image.png)
